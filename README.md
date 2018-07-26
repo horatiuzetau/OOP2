@@ -1,2 +1,2 @@
 # OOP2
-OOP second homework
+OOP second homework (I am using cLion)
