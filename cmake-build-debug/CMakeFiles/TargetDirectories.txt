@@ -1,0 +1,3 @@
+C:/Work/Facultate/Sem2/POO/Laborator/PROBLEMA 2 COMPELTA/Tema2man/cmake-build-debug/CMakeFiles/Tema2man.dir
+C:/Work/Facultate/Sem2/POO/Laborator/PROBLEMA 2 COMPELTA/Tema2man/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Work/Facultate/Sem2/POO/Laborator/PROBLEMA 2 COMPELTA/Tema2man/cmake-build-debug/CMakeFiles/rebuild_cache.dir

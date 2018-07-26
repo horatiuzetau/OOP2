@@ -1,0 +1,3 @@
+C:\Users\horat\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.5087.36\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\Tema2man.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-W\mingw32\bin\ar.exe cr CMakeFiles\Tema2man.dir/objects.a @CMakeFiles\Tema2man.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-W\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Tema2man.dir/objects.a -Wl,--no-whole-archive  -o Tema2man.exe -Wl,--out-implib,libTema2man.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Tema2man.dir\linklibs.rsp
