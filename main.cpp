@@ -228,29 +228,6 @@ int Coada::empty(){
 }
 
 
-//---------------------------METODA DE COADA CU A DOUA MOSTENIRE
-
-//
-//class Coada : public Stiva{
-//public:
-//    void push(const Complex&) override;
-//    void pop() override ;
-//    int empty() override;
-//};
-//void Coada::push(const Complex& x){
-//    this->resize(1);
-//    this->v[this->dim - 1] = x;
-//}
-//void Coada::pop(){
-//    cout << this->v[0];
-//    for(i = 0; i < this->dim; i++)
-//        this->v[i] = this->v[i+1];
-//    this->resize(-1);
-//}
-//int Coada::empty(){
-//    return !dim;
-//}
-
 int main() {
     Coada x;
     cin >> x;
